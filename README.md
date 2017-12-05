@@ -8,6 +8,4 @@ A lime and coconut inspired theme.
 
 ## Screenshot
 
-_Will be added around 1.0.0_
-
-<!-- ![screenshot](https://raw.githubusercontent.com/nijaru/lime-syntax/master/screenshot.png) -->
+![screenshot](https://raw.githubusercontent.com/nijaru/lime-syntax/master/screenshot.png)
