@@ -1,9 +1,12 @@
 {
   "name": "lime-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A lime and coconut inspired theme.",
-  "keywords": ["syntax", "theme"],
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
   "repository": "https://github.com/nijaru/lime-syntax",
   "license": "MIT",
   "engines": {
